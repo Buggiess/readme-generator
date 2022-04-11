@@ -1,4 +1,4 @@
-# README Generator
+# Testing README generator
 ![](https://img.shields.io/badge/License-MIT-white.svg)
 
 ## Table of Contents
@@ -6,27 +6,38 @@
 2. [Install](#install)
 3. [Usage](#usage)
 4. [Visuals](#visuals)
+5. [Contributions](#contributions)
 6. [Tests](#tests)
+7. [License](#license)
 8. [Contact](#contact)
 
 ---
 ## Description
-This is an application using Node.js to create a README.md file
+This is a test of my README generator
 
 ---
 ## Installation
-`npm install`
+npm init
 
 ---
 ## Usage
-To create a README.md file with ease
+Fun
 
 ---
 ## Visuals
-https://youtu.be/6_vNkquJBts
+![Demo Link](http://youtube.com)
 
+---
+## License
+MIT
+
+---
+## Contrbutions
+Bob and Joe
+
+---
 ## Tests
-`node index.js`
+node index.js
 
 ---
 ## Contact
